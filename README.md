@@ -11,5 +11,6 @@
 
 [misskey](https://misskey.io/@Liquid_system)
 [blog](https://liquid-system.github.io)
+
 ![Liquid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquid-system&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liquid-system&layout=compact)
