@@ -9,8 +9,7 @@
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-#### SNS
 [misskey](https://misskey.io/@Liquid_system)
-
+[blog](https://liquid-system.github.io)
 ![Liquid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquid-system&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liquid-system&layout=compact)
