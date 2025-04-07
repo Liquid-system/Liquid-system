@@ -19,8 +19,6 @@
 </p>
 <p align="center">
    •
-   <b><a href="https://misskey.io/@Liquid_system"> misskey</a></b>
-   •
    <b><a href="https://liquid-system.github.io"> blog</a></b>
 </p>
 <p>
